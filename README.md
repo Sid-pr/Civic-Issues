@@ -15,6 +15,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
+3. To download the dataset
+   https://drive.google.com/file/d/16050OvplvaGvv9dNGs9yKF_XoZN0gFYO/view?usp=drive_link
 
 In the output, you'll find options to open the app in a
 
